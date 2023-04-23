@@ -1,3 +1,4 @@
+git
 <<<<<<< HEAD
 hui hello, 
 =======
@@ -8,3 +9,4 @@ my name is
 hui hello, 
 >>>>>>> master
 >>>>>>> dima
+git
