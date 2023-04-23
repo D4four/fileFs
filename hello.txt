@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello, 
 my name is
+=======
+hui hello, 
+>>>>>>> master
