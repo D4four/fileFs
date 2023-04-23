@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hui hello, 
+=======
+<<<<<<< HEAD
+hello, 
+my name is
+=======
+hui hello, 
+>>>>>>> master
+>>>>>>> dima
